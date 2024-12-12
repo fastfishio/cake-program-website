@@ -1,11 +1,11 @@
 {
-  "name": "@web-boilerplate-v4/simple",
+  "name": "@web-boilerplate-v4/cake-program-website",
   "private": true,
   "version": "4.0.0",
   "scripts": {
-    "dev": "   PORT=443 _APP=simple    next dev  --experimental-https",
+    "dev": "   PORT=443 _APP=cake-program-website    next dev  --experimental-https",
     "lint": "                          next lint --no-cache",
-    "build": " _APP=simple             next build",
+    "build": " _APP=cake-program-website             next build",
     "start": "                         next start"
   }
 }

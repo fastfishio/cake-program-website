@@ -7,8 +7,7 @@
     "apps/*"
   ],
   "scripts": {
-    "simple": "             turbo dev --filter=@web-boilerplate-v4/simple",
-    "translations": "       turbo dev --filter=@web-boilerplate-v4/translations",
+    "website": "             turbo dev --filter=@web-boilerplate-v4/cake-program-website",
     "buildall": "           turbo build",
     "lint": "               eslint"
   },

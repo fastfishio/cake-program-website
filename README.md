@@ -13,9 +13,9 @@ First, install dependencies:
 bun install
 ```
 
-Then you can run the development server of `1-simple-app` like:
+Then you can run the development server of `cake-program-website` like:
 ```bash
-bun run simple
+bun run website
 ```
 ><small>💡 This should command should be in the package.json scripts </small>
 
